@@ -1,5 +1,5 @@
 cabal-version:   3.0
-name:            tahoe-bs
+name:            A
 version:         0.6.0.0
 synopsis:
   Types related to implementation of a Tahoe-LAFS Great Black Swamp server
