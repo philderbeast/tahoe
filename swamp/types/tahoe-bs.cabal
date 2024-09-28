@@ -1,5 +1,5 @@
 cabal-version:   2.4
-name:            tahoe-great-black-swamp-types
+name:            tahoe-bs
 version:         0.6.0.0
 synopsis:
   Types related to implementation of a Tahoe-LAFS Great Black Swamp server
